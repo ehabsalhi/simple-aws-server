@@ -1,6 +1,7 @@
 # Simple-aws-server
 
 ## Steps that I followed
+[Deploy Link](http://lab-16-4-env.eba-3gxbyjss.us-east-1.elasticbeanstalk.com/)
 
 1- create environment
 
